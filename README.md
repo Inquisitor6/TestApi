@@ -27,6 +27,8 @@ Esta versión implementa 3 Endpoints:
 
 Para realizar pruebas de consumo de los servicios de manera local, en el directorio del proyecto se encuentra la carpeta ApiTest, que contiene un archivo con la configuración completa de una colección de Postman. Una vez clonado el repositorio, el proyecto debe ejecutarse y se debe importar la colección en Postman.
 
+Actualmente en la base de datos se encuentran creados los clientes Id 6, 7 y 8.
+
 ## Documentación
 
 El proyecto incluye documentación con Swagger, la cual estará accesible una vez clonado el repositorio, compilada y ejecutada la solución.
